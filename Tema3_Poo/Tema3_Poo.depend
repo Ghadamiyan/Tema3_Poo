@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1557772030 source:d:\tema3_poo\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<algorithm>
+	<complex>
+	<sstream>
+	<map>
+
